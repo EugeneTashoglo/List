@@ -53,13 +53,5 @@
             android:layout_margin="8dp" />
     </LinearLayout>
 
-    <TextView
-        android:id="@+id/textViewDescription"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="16sp"
-        android:text="Описание задачи"
-        android:padding="20dp"
-        android:background="@android:drawable/dialog_holo_light_frame"
-        />
+
 </LinearLayout>
